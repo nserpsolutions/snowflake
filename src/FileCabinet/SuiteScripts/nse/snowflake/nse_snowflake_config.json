@@ -1,0 +1,6 @@
+{
+  "baseUrl": "./",
+  "paths": {
+    "nseSfLib": "/SuiteScripts/nse/snowflake/nse_snowflake_lib"
+  }
+}
